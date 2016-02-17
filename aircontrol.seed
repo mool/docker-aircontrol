@@ -1,0 +1,5 @@
+aircontrol2       aircontrol2/install_type        select server
+aircontrol2       aircontrol2/username            string admin
+aircontrol2       aircontrol2/password            string AirC0ntrol
+aircontrol2       aircontrol2/server_port         string 9081
+aircontrol2       aircontrol2/start_server        boolean true
